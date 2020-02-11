@@ -2,21 +2,17 @@
 ### Practice Practice Practice
 
 
-Section 1: Data Structures
+Topics to cover:
 - dict
 - list
 - sets
 - stacks
-- queue
-
-Section 2: Looping & Iteration 
+- queue 
 - Pythonic Loops
 - Dict and List Comprehensions
 - List Slicing
 - Generators
 - Iterator Chains
-
-Section 3: Classes & OOP
 - Basic Class Format
 - classmethods
 - staticmethods
@@ -25,20 +21,11 @@ Section 3: Classes & OOP
 - __repr__ vs __str__
 - Abstract Base Class
 - Class vs Instance Variables 
-
-Section 4: Functions
 - What are first class functions?
 - Lambdas
 - Decorators
 - *args and **kwargs
 - Function Argument Unpacking
-
-Section 5: Odds and Ends
-- context management, why do it?
-
-
-Section 5: Important Libraries
-
 - Itertools (ambitious for now) 
 - numpy
 - pandas
